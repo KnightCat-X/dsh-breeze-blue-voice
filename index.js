@@ -5,7 +5,7 @@ export const name = "breeze-blue-voice";
 
 export const inject = ["petApi7340"];
 
-const VOICE_ID = "voc_xeh3w54cqvnp";
+const VOICE_ID = "voc_8yud7hz7c9q2";
 
 export function apply(ctx) {
   const apiKey = process.env.BREEZE_API_KEY;
